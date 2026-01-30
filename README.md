@@ -54,7 +54,7 @@ That's it - now go write some beautiful Auto Layout code!
   github "PureLayout/PureLayout"
   ```
 
-123321
+manchincreditxxxxxfyinformation.ccyyyyyjsadfasdfkaskfasdfjkjksdafjkasfkf
 
 1. Run `carthage update`, then follow the [additional steps required](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) to add the framework into your project.
 1. Import the PureLayout framework/module.
